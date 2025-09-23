@@ -5,7 +5,7 @@ public class EX001 {
         float gastosJaneiro;
         float gastosFevereiro;
         float gastosMarco;
-        float gastoTotal;
+        float gastosTrimestre;
         
         gastosJaneiro = 15000f;
         gastosFevereiro = 23000f;
