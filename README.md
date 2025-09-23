@@ -19,7 +19,7 @@ Os códigos estão organizados em pastas por tema de estudo:
   - `IfExample.java` → uso básico do `if`
   - `IfElseIfExample.java` → exemplo de `if / else if / else`
   - `SwitchExample.java` → estrutura de decisão `switch`
-  - `SwitchAdvanced.java` → exemplo mais completo de `switch`
+  - `SwitchCharExample.java` → exemplo mais completo de `switch`
 
 - **Loops/**
   - `ForLoopExample.java` → uso do `for`
