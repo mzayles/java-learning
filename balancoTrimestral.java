@@ -1,7 +1,5 @@
-package EXERCISES;
-
-public class EX001 {
-    public class static void main(Strings[] args) {
+public class BalancoTrimestral {
+    public static void main(String[] args) {
         float gastosJaneiro;
         float gastosFevereiro;
         float gastosMarco;
@@ -12,6 +10,6 @@ public class EX001 {
         gastosMarco = 17000f;
 
         gastosTrimestre = (gastosJaneiro + gastosFevereiro + gastosMarco);
-        System.out.printf("Gasto total do trimestre: %.2f", gastosTrimestre)
+        System.out.printf("Gasto total do trimestre: %.2f", gastosTrimestre);
     }
 }
