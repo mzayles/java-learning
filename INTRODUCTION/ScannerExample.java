@@ -1,7 +1,7 @@
-package INTRODUCAO_001;
+package INTRODUCTION;
 import java.util.Scanner;
 
-public class metodo_scanner {
+public class ScannerExample {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -17,9 +17,9 @@ public class metodo_scanner {
         System.out.print("Digite sua altura: ");
         float altura = sc.nextFloat();
 
+        sc.close();
+
         System.out.println("\nDados:");
         System.out.printf("Olá, %s! Você mora em %s, tem %d anos e %.2f de altura.", nome, cidade, idade, altura);
-
-        sc.close();
     }
 }
