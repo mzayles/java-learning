@@ -1,4 +1,4 @@
-package REPETICOES;
+package LOOPS;
 import java.util.Scanner;
 
 public class DoWhileLoopExample {
