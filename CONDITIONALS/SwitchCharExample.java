@@ -10,13 +10,13 @@ public class SwitchCharExample {
 
         switch(op) {
             case 'A': case 'a':
-                System.out.println("");
+                System.out.println("Você escolheu A");
                 break;
             case 'B': case 'b':
-                System.out.println("");
+                System.out.println("Você escolheu B");
                 break;
             case 'C': case 'c':
-                System.out.println("");
+                System.out.println("Você escolheu C");
                 break;
             default:
                 System.out.println("Opção inválida.");
