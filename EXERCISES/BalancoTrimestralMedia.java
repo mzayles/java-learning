@@ -1,3 +1,5 @@
+package EXERCISES;
+
 public class BalancoTrimestralMedia {
     public static void main(String[] args) {
         float gastosJaneiro = 15000f;

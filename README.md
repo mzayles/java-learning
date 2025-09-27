@@ -26,6 +26,9 @@ Os códigos estão organizados em pastas por tema de estudo:
   - `WhileLoopExample.java` → uso do `while`
   - `DoWhileLoopExample.java` → uso do `do-while`
 
+- **Exercises/**
+  - Lista de exercícios de Java com base nos conteúdos estudados.
+
 ## 🚀 Objetivo
 - Consolidar conhecimentos de Java aprendidos na faculdade.
 - Criar um histórico de aprendizado bem organizado.

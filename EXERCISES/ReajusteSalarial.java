@@ -1,3 +1,5 @@
+package EXERCISES;
+
 import java.util.Scanner;
 
 public class ReajusteSalarial {
