@@ -1,5 +1,4 @@
 package EXERCISES;
-
 import java.util.Scanner;
 
 public class HoraEmMinutos {
@@ -8,8 +7,6 @@ public class HoraEmMinutos {
 
         System.out.print("Informe a hora (00-23h): ");
         int hora = sc.nextInt();
-        System.out.print("Informe os minutos (00-59m): ");
-        int minutos = sc.nextInt();
 
         int totalMinutos = (hora * 60);
 
