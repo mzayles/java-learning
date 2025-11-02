@@ -1,12 +1,11 @@
-package CONDITIONALS;
+package condicionais;
 import java.util.Scanner;
 
-public class SwitchCharExample {
+public class SwitchChar {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         char op = sc.nextLine().charAt(0);
-        sc.close();
 
         switch(op) {
             case 'A': case 'a':
@@ -21,5 +20,7 @@ public class SwitchCharExample {
             default:
                 System.out.println("Opção inválida.");
         }
+
+        sc.close();
     }
 }

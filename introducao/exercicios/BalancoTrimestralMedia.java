@@ -1,4 +1,4 @@
-package EXERCISES;
+package introducao.exercicios;
 
 public class BalancoTrimestralMedia {
     public static void main(String[] args) {

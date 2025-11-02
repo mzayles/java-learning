@@ -1,6 +1,6 @@
-package LOOPS;
+package lacosRepeticao;
 
-public class WhileExample {
+public class LacoWhile {
     public static void main(String[] args) {
         int x = 10;
 

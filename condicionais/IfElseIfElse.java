@@ -1,10 +1,10 @@
-package CONDITIONALS;
+package condicionais;
 import java.util.Scanner;
 
-public class IfElseIfExample {
+public class IfElseIfElse {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        
+
         float media;
 
         System.out.print("Digite seu nome: ");
@@ -18,8 +18,6 @@ public class IfElseIfExample {
 
         media = (nota1 + nota2) / 2;
         System.out.printf("\nA média do aluno %s é %.2f.", nome, media);
-
-        sc.close();
 
         // Estrutura condicional composta
         if (media < 2) {
@@ -35,5 +33,7 @@ public class IfElseIfExample {
         } else {
             System.out.println("\nExcelente! Aluno aprovado!");
         }
+
+        sc.close();
     }
 }

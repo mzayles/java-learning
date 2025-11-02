@@ -1,4 +1,4 @@
-package EXERCISES;
+package lacosRepeticao.exercicios;
 import java.util.Scanner;
 
 public class Somatorio {

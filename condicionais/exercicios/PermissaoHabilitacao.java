@@ -1,4 +1,4 @@
-package EXERCISES;
+package condicionais.exercicios;
 import java.util.Scanner;
 
 public class PermissaoHabilitacao {

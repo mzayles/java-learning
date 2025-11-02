@@ -1,4 +1,4 @@
-package EXERCISES;
+package introducao.exercicios;
 import java.util.Scanner;
 
 public class ReajusteSalarial {

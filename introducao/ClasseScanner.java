@@ -1,7 +1,7 @@
-package INTRODUCTION;
+package introducao;
 import java.util.Scanner;
 
-public class ScannerExample {
+public class ClasseScanner {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -17,9 +17,9 @@ public class ScannerExample {
         System.out.print("Digite sua altura: ");
         float altura = sc.nextFloat();
 
-        sc.close();
-
-        System.out.println("\nDados:");
+        System.out.println("\n----- Dados -----");
         System.out.printf("Olá, %s! Você mora em %s, tem %d anos e %.2f de altura.", nome, cidade, idade, altura);
+
+        sc.close();
     }
 }

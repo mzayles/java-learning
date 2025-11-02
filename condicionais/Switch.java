@@ -1,14 +1,12 @@
-package CONDITIONALS;
+package condicionais;
 import java.util.Scanner;
 
-public class SwitchExample {
+public class Switch {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Digite uma letra de A a C: ");
         String op = sc.nextLine();
-
-        sc.close();
 
         switch(op) {
             case "A":
@@ -23,5 +21,7 @@ public class SwitchExample {
             default:
                 System.out.println("Opção inválida.");
         }
+
+        sc.close();
     }
 }
