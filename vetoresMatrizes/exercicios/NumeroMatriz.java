@@ -1,4 +1,4 @@
-package vetoresMatrizes.exercicios.NumerosMatriz;
+package vetoresMatrizes.exercicios;
 
 public class NumeroMatriz {
     public static void main(String[] args) {
