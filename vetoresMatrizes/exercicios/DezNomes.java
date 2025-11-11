@@ -1,6 +1,6 @@
 package vetoresMatrizes.exercicios;
 
-public class DezNumeros {
+public class DezNomes {
     public static void main(String[] args) {
         String vetor[] = {"Aaron Warner", "Jude St. Francis", "Dex", "Wes", "Rufus", "Mateo", "Cardan", "Lily Blossom", "Atlas"};
 
