@@ -1,4 +1,4 @@
-package CalculadoraIMC;
+package IndiceCorporal;
 import java.util.Scanner;
 
 public class Principal {

@@ -1,4 +1,4 @@
-package CalculadoraIMC;
+package IndiceCorporal;
 
 public class Calculo {
     public static void calcularImc(float imc) {

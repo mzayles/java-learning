@@ -1,4 +1,4 @@
-package Calculadora;
+package CalculadoraBásica;
 import java.util.Scanner;
 
 public class Principal {

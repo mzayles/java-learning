@@ -1,4 +1,4 @@
-package Calculadora;
+package CalculadoraBásica;
 
 public class Calculo {
     public double calcularDobro(double n) {
